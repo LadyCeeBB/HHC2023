@@ -1,9 +1,11 @@
 # HHC2023
 This is my write-up for the SANS Holiday Hack Challenge (HHC) for 2023.  
 
-At the start, my intent was to participate with the primary goals of getting reacclimated to the Unix environment, exposed to technology tools, and learning new things in this space. In the past, I struggled to carve out sufficient time to do deep dives into these challenges so I didn't set a goal regarding challenges to complete.  When I hit the 50% mark, I considered a stretch goal of publishing my work. 
+At the start, my intent was to participate with the primary goals of getting reacclimated to the Unix environment, exposed to technology tools, and learning new things in this space. In the past, I struggled to carve out sufficient time to do deep dives into these challenges so I didn't set any goals pertaining to completing the challenges  However, when I hit the 50% mark, I considered a stretch goal of publishing my work - again with no intent of completing all the challenges but just having fun while being exposed to and learning some new things.  
 
-I'm elated that I successfully completed 14 of the 22 challenges, as well as both of the bonus Fishing challenges.  I also found some Easter eggs and other notable mentions.  In addition to hitting my goals and  flagging things I wanted to further explore or learn (JWT is beautiful!), I decided to complete my stretch goal of publishing my HHC work. So that end, here I am. :)
+I was in a much better position this time to spend time on this challenge unlike in the previous two or three.  I got into the challenges and thoroughly enjoyed most of them (details in my report).  And I learned so much which is a cornerstone of my personality. Adding to that I was elated about my 64% (14 of 22) completion rate, as well as completing both of the bonus Fishing challenges.  I also found some Easter eggs and other notable mentions.  
+
+In addition to hitting my goals and flagging things I wanted to further explore or learn (JWT is beautiful!), I decided to complete my stretch goal of publishing my HHC work. So that end, here I am. :)
 
 I'm new to using github beyond as a viewer so my approach is to publish my work as PDFs to minimize recreating my notes from Microsoft OneNote. 
 
