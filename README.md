@@ -4,7 +4,7 @@ This is my write-up for the SANS Holiday Hack Challenge (HHC) for 2023.
 it consists of a summary, that includes three (3) sections:
    * My Approach
    * Challenges Status View
-   * Wrap-up
+   * Wrap-up                                
 and the actual write-up for the completed challenges, grouped by islands.
 
 MY APPROACH                                                      
