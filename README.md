@@ -9,7 +9,8 @@ At the start, my intent was to participate with the primary goals of getting rea
 I was in a much better position this time to spend time on this challenge unlike in the previous two or three.  I got into the challenges and thoroughly enjoyed most of them (details in my report).  And I learned so much which is a cornerstone of my personality. Adding to that I was elated about my 64% (14 of 22) completion rate, as well as completing both of the bonus Fishing challenges.  I also found some Easter eggs and other notable mentions.  
 
 CHALLENGES STATUS OVERVIEW
-![image](https://github.com/LadyCeeBB/HHC2023/assets/155762906/c74e46b2-9394-4b28-ad09-60319f4c2a87)
+![image](https://github.com/LadyCeeBB/HHC2023/assets/155762906/f25d4d6b-6f2a-4f2f-ad41-6412f22d317e)
+
 
 WRAP-UP                                                  
 In addition to hitting my goals and flagging things I wanted to further explore or learn (JWT is beautiful!), I decided to complete my stretch goal of publishing my HHC work. So that end, here I am. :)
