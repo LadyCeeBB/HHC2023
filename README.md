@@ -1,10 +1,11 @@
 # HHC2023
 This is my write-up for the SANS Holiday Hack Challenge (HHC) for 2023.  
 
-My paper consists of sections:
+it consists of a summary, that includes three (3) sections:
    * My Approach
    * Challenges Status View
    * Wrap-up
+and the actual write-up for the completed challenges, grouped by islands.
 
 MY APPROACH                                                      
 At the start, my intent was to participate with the primary goals of getting reacclimated to the Unix environment, exposed to technology tools, and learning new things in this space. In the past, I struggled to carve out sufficient time to do deep dives into these challenges so I didn't set any goals pertaining to completing the challenges  However, when I hit the 50% mark, I considered a stretch goal of publishing my work - again with no intent of completing all the challenges but just having fun while being exposed to and learning some new things.  
